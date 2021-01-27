@@ -1,0 +1,5 @@
+•	Bifogad xmlfil innehåller engelska texter med motsvarande svensk översättning.
+•	För varje element trans-unit ska du hämta ut innehållet i source och target elementen.
+•	Programmet ska  generera en html fil som presenterar värdena för varje trans-unit element på ett överskådligt sätt.
+•	Det finns ett id attribut på varje trans-unit element och detta ska också finnas med i htmlfilen.
+•	Htmlfilen ska använda sig av css för att formatera respektive översättningspar.

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>etteplan_arbetsuppgift</title>
+</head>
+<style>
+	th {
+		background-color: #00ccff;
+		color: white;
+	}
+	th, td {
+		padding: 15px;
+		text-align: center;
+		border-bottom: 2px solid #ddd;
+	}
+	tr:hover {
+		background-color: #f5f5f5;
+	}
+	.text-center {
+		text-align: center !important;
+	}
+</style>
+<body>
+	<div class="text-center">
+		<table>
+			<tr>
+				<th>ID</th>
+				<th>SOURCE</th>
+				<th>TARGET</th>
+			</tr>
